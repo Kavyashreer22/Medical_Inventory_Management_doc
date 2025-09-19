@@ -1,7 +1,10 @@
 **MEDICAL INVENTORY MANAGEMENT DOCUMENT**
-**College Details**
+**College Details:**
+
 **College Name:** Sri Krishna Adithya College of Arts and Science 
+
 **College Code:** BRUAG 
+
 **Team ID:** NM2025TMID22293 
 
 **User Story:**
