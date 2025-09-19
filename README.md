@@ -28,17 +28,27 @@ This Salesforce-based application includes the following key features:
 **Team MEMBERS:**  
 
 **TEAM Leader Name:** KAVYA SHREE R 
+
 **Email:** 23bsit232kavyashreer@skacas.ac.in 
+
 **Reg No:** 2326J1743
 
+
 **Team MEMBER1:** LAVANYA ANSY R 
-Email: 23bsit235lavanyaansyr@skacas.ac.in 
+
+**Email:** 23bsit235lavanyaansyr@skacas.ac.in 
+
 **Reg No:** 2326J1746
 
-Team MEMBER2: MEGNA J 
-Email: 23bsit238megnaj@skacas.ac.in 
+**Team MEMBER2:** MEGNA J 
+
+**Email:** 23bsit238megnaj@skacas.ac.in 
+
 **Reg No:** 2326J1749
 
-Team MEMBER3: RISWAN J  
-Email: 23bsit248riswanj@skacas.ac.in
+
+**Team MEMBER3:** RISWAN J  
+
+**Email:** 23bsit248riswanj@skacas.ac.in
+
 **Reg No:** 2326J1759
