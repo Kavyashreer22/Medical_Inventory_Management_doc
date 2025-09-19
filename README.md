@@ -5,6 +5,7 @@
 The Medical Inventory Management System is a comprehensive Salesforce application designed to streamline and manage various operational aspects of the medical inventory. It can efficiently maintain supplier details, manage purchase orders, track product details and transactions, and monitor expiry dates of products, thereby improving operational efficiency, data accuracy, and reporting capabilities. 
 
 **PROJECT OVERVIEW :**
+
 This Salesforce-based application includes the following key features:
 
 **Supplier Management:** Maintain detailed records of suppliers, including contact information and performance tracking.
