@@ -1,4 +1,5 @@
 **MEDICAL INVENTORY MANAGEMENT DOCUMENT**
+
 **College Details:**
 
 **College Name:** Sri Krishna Adithya College of Arts and Science 
@@ -15,17 +16,22 @@ The Medical Inventory Management System is a comprehensive Salesforce applicatio
 This Salesforce-based application includes the following key features:
 
 📦**Supplier Management:** Maintain detailed records of suppliers, including contact information and performance tracking.
+
 🧾 **Purchase Orders:** Create, manage, and track purchase orders with real-time updates.
+
 🧪 **Product Cataloging:** Store product descriptions, stock levels, and transaction history.
+
 ⏳ **Expiry Monitoring:** Track expiry dates to prevent usage of expired items.
+
 📊 **Reporting:** Generate comprehensive reports on supplier performance, inventory status, and purchase history.
 
 **Team MEMBERS:**  
+
 **TEAM Leader Name:** KAVYA SHREE R 
 **Email:** 23bsit232kavyashreer@skacas.ac.in 
 **Reg No:** 2326J1743
 
-Team MEMBER1: LAVANYA ANSY R 
+**Team MEMBER1:** LAVANYA ANSY R 
 Email: 23bsit235lavanyaansyr@skacas.ac.in 
 **Reg No:** 2326J1746
 
